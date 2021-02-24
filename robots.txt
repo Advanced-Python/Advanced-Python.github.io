@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Advanced-Python.github.io/sitemap.xml
