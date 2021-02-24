@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           # to checkout the theme repo too!
-          submodules: yes
+          submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
