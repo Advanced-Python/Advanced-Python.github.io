@@ -5,6 +5,12 @@ theme: PaperMod
 
 defaultContentLanguage: he
 
+outputs:
+  - HTML
+  - RSS
+  - JSON
+  - ROBOTS
+
 params:
   defaultTheme: dark
   DateFormat: "2.1.06"
