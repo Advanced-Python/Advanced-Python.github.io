@@ -37,5 +37,5 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/Advanced-Python"
-    - name: RsS
+    - name: rss
       url: "index.xml"
