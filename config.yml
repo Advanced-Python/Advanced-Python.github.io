@@ -5,11 +5,17 @@ theme: PaperMod
 
 defaultContentLanguage: he
 
+enableRobotsTXT: true
 outputs:
-  - HTML
-  - RSS
-  - JSON
-  - ROBOTS
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+  pages:
+    - HTML
+    - RSS
+    - JSON
 
 params:
   defaultTheme: dark
