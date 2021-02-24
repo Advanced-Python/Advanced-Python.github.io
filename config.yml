@@ -19,6 +19,7 @@ outputs:
 
 params:
   defaultTheme: dark
+  disableThemeToggle: yes
   DateFormat: "2.1.06"
   ShowShareButtons: yes
   ShowReadingTime: yes
