@@ -17,6 +17,12 @@ outputs:
     - RSS
     - JSON
 
+menu:
+  main:
+    - identifier: search
+      name: חיפוש
+      url: /search/
+
 params:
   defaultTheme: dark
   disableThemeToggle: yes
