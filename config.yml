@@ -26,9 +26,12 @@ menu:
 params:
   defaultTheme: dark
   disableThemeToggle: yes
-  DateFormat: "2.1.06"
-  ShowShareButtons: yes
+  ShowBreadCrumbs: yes
+  showtoc: yes
   ShowReadingTime: yes
+
+  author: אלון קרימגנד אוסובסקי
+  DateFormat: "02.01.06"
 
   label:
     icon: /icon.svg
