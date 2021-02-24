@@ -2,3 +2,18 @@ baseURL: https://Advanced-Python.github.io/
 languageCode: he-IL
 title: פייתון למתקדמים
 theme: PaperMod
+
+defaultContentLanguage: he
+
+params:
+  defaultTheme: dark
+  DateFormat: "2.1.06"
+  ShowShareButtons: yes
+  ShowReadingTime: yes
+
+  homeInfoParams:
+    title: הגעת למקום הנכון 🔥
+    content: |
+      נמאס לך לכתוב סקריפטים ותוכנות מטופשות בפייתון?
+      - באתר זה תמצא מדריכים, כתבות, וטיפים שיעזרו לך להפוך למומחה של ממש
+      - והחלק הכי טוב - הכל בעברית!
