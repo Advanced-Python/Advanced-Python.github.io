@@ -23,6 +23,9 @@ params:
   ShowShareButtons: yes
   ShowReadingTime: yes
 
+  label:
+    icon: /icon.svg
+
   homeInfoParams:
     title: הגעת למקום הנכון 🔥
     content: >
