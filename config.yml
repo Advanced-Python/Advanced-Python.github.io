@@ -29,3 +29,9 @@ params:
       נמאס לך לכתוב סקריפטים ותוכנות מטופשות בפייתון?
       באתר זה תמצא מדריכים, כתבות, וטיפים שיעזרו לך להפוך למומחה של ממש,
       והחלק הכי טוב - הכל בעברית!
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/Advanced-Python"
+    - name: RsS
+      url: "index.xml"
