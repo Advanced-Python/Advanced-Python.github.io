@@ -44,6 +44,8 @@ params:
       והחלק הכי טוב - הכל בעברית!
 
   socialIcons:
+    - name: discord
+      url: "https://discord.gg/kBK5J6Qmuc"
     - name: github
       url: "https://github.com/Advanced-Python"
     - name: rss
